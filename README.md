@@ -4,8 +4,8 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Deniz Qian: https://github.com/dq2024
-Somyung Kim: https://github.com/troy-skim
+Deniz Qian: https://github.com/dq2024 \n
+Somyung Kim: https://github.com/troy-skim \n
 Terrance Chen: https://github.com/tchen0125
 
 ## Stakeholders
