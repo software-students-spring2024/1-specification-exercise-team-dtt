@@ -15,7 +15,7 @@ Blake Lim is a 20 year old student at New York University. Ever since arriving i
 #### Goals/needs
 - Need a list view of all transactions for the day/week/month
 - Need a page where they can see how much more money they can spend for the week
-- Need an interactive interface where they can add new transactions made with ease
+- Need an interactive interface where they can add new transactions with ease
 
 #### Problems/frustrations
 - Difficult to use a single mobile banking app, as there are multiple accounts and zelle/venmo doesn't show up well
