@@ -39,17 +39,15 @@ We aim to develop a student budget tracker that simplifies financial management,
 
 - As a student-athlete, I want to budget for sports-related expenses without compromising my academic needs so that I can excel in both my sport and studies.
 
-- As a graduate student who is also a teaching assistant, I want to balance my modest income against my living and tuition expenses so that I can live comfortably without accruing more debt.
+- As a graduate student who is also a teaching assistant, I want to balance my income against my living and tuition expenses so that I can live comfortably without accruing more debt.
 
-- As an international student, I want to manage my expenses in a foreign currency while keeping track of exchange rate fluctuations so that I can make informed spending decisions and avoid overspending.
+- As a student involved in a Fraternity, I want to set aside a portion of my budget for club fees and event participation so that I can account for the expenses.
 
-- As a student involved in extracurricular activities, I want to set aside a portion of my budget for club fees and event participation so that I can enjoy a full college experience without financial stress.
+- As a student planning to study abroad, I want to save and budget for my travel, accommodation, and living expenses so that I can enjoy my study abroad without financial difficulty.
 
-- As a student planning to study abroad, I want to save and budget for my travel, accommodation, and living expenses abroad so that I can enjoy my international study experience without financial worry.
+- As a student entrepreneur, I want to manage my personal finances and business expenses separately so that I can track the growth of my business while ensuring I have enough money for my personal expenses.
 
-- As a student entrepreneur, I want to manage my personal finances and business expenses separately so that I can accurately track the growth of my business while ensuring personal financial health.
-
-- As a student on a tight budget, I want to find ways to minimize my expenses by identifying cost-effective alternatives for my daily needs so that I can stretch my budget further.
+- As a student on a tight budget, I want to find ways to minimize my expenses by identifying cost-effective alternatives for my daily needs so that I can stretch my budget.
 
 ## Activity Diagrams
 
