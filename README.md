@@ -10,12 +10,12 @@ Terrance Chen: https://github.com/tchen0125
 
 ## Stakeholders
 
-### Jay Lim
+### Andy Lim
 Goals/needs
-- content here
+- Need a list view of all transactions and incomes, and how they sum up for each month, to intuitively see how much one spent
 
 Problems/frustrations
-- content here
+- Difficult to use a single mobile banking app, as there are multiple accounts and zelle/venmo doesn't show up well
 
 ## Product Vision Statement
 
