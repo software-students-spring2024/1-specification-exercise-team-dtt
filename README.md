@@ -8,12 +8,14 @@ Deniz Qian: https://github.com/dq2024 \
 Somyung Kim: https://github.com/troy-skim \
 Terrance Chen: https://github.com/tchen0125
 
-## Ideation
-
-
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+### Jay Lim
+Goals/needs
+- content here
+
+Problems/frustrations
+- content here
 
 ## Product Vision Statement
 
