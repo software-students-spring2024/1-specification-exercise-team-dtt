@@ -19,7 +19,7 @@ Problems/frustrations
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+We aim to develop a student budget tracker that simplifies financial management, promoting responsible spending and empowering users to achieve their academic goals.
 
 ## User Requirements
 
