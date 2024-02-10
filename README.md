@@ -29,31 +29,35 @@ We aim to develop a student budget tracker that simplifies financial management,
 ## User Requirements
 
 ### User Stories
-As a financially independent student ,I want to track my spending across different categories like food, rent, and entertainment so that I can determine areas where I can cut back to stay within my budget.
+1. As a financially independent student, I want to track my spending across different categories like food, rent, and entertainment so that I can determine areas where I can cut back to stay within my budget.
 
-As a saving enthusiast, I want to be able to save 20% of my income every month so that I can better prepare for the future.
+2. As a saving enthusiast, I want to be able to save 20% of my income every month so that I can better prepare for the future.
 
-As a student living away from home for the first time, I want to learn how to manage my expenses effectively so that I can cover all my necessities without running out of money before the end of the month.
+3. As a student living away from home for the first time, I want to learn how to manage my expenses effectively so that I can cover all my necessities without running out of money before the end of the month.
 
-As a student with a scholarship, I want to ensure that I am using my scholarship money wisely by allocating funds for my education-related expenses first, ensuring that my education is not compromised.
+4. As a student with a scholarship, I want to ensure that I am using my scholarship money wisely by allocating funds for my education-related expenses first, ensuring that my education is not compromised.
 
-As a student athlete, I want to budget for sports-related expenses without compromising my academic needs so that I can excel in both my sport and studies.
+5. As a student athlete, I want to budget for sports-related expenses without compromising my academic needs so that I can excel in both my sport and studies.
 
-As a graduate student who is also a teaching assistant, I want to balance my modest income against my living and tuition expenses so that I can live comfortably without accruing more debt.
+6. As a graduate student who is also a teaching assistant, I want to balance my modest income against my living and tuition expenses so that I can live comfortably without accruing more debt.
 
-As an international student, I want to manage my expenses in a foreign currency while keeping track of exchange rate fluctuations so that I can make informed spending decisions and avoid overspending.
+7. As an international student, I want to manage my expenses in a foreign currency while keeping track of exchange rate fluctuations so that I can make informed spending decisions and avoid overspending.
 
-As a student involved in extracurricular activities, I want to set aside a portion of my budget for club fees and event participation so that I can enjoy a full college experience without financial stress.
+8. As a student involved in extracurricular activities, I want to set aside a portion of my budget for club fees and event participation so that I can enjoy a full college experience without financial stress.
 
-As a student planning to study abroad, I want to save and budget for my travel, accommodation, and living expenses abroad so that I can enjoy my international study experience without financial worry.
+9. As a student planning to study abroad, I want to save and budget for my travel, accommodation, and living expenses abroad so that I can enjoy my international study experience without financial worry.
 
-As a student entrepreneur, I want to manage my personal finances and business expenses separately so that I can accurately track the growth of my business while ensuring personal financial health.
+10. As a student entrepreneur, I want to manage my personal finances and business expenses separately so that I can accurately track the growth of my business while ensuring personal financial health.
 
-As a student on a tight budget, I want to find ways to minimize my expenses by identifying cost-effective alternatives for my daily needs so that I can stretch my budget further.
+11. As a student on a tight budget, I want to find ways to minimize my expenses by identifying cost-effective alternatives for my daily needs so that I can stretch my budget further.
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+### Chosen Stories
+1. As a financially independent student, I want to track my spending across different categories like food, rent, and entertainment so that I can determine areas where I can cut back to stay within my budget.
+
+2. As a saving enthusiast, I want to be able to save 20% of my income every month so that I can better prepare for the future.
+
 
 ## Clickable Prototype
 
