@@ -8,6 +8,9 @@ Deniz Qian: https://github.com/dq2024 \
 Somyung Kim: https://github.com/troy-skim \
 Terrance Chen: https://github.com/tchen0125
 
+## Ideation
+We plan to build a simple, user-friendly app to help college students budget and track their spending throughout the school year. On the home page, the user will be able to see their spending for the week as well as how much more money they are allowed to spend to stay within budget. They will also be able to view a list of all their transactions for the week and will be able to categorize these purchases into different spending categories. This way, the user can see what they need to reduce spending on (restaurants, school supplies, video games, etc). They can also easily add any purchases they have made to the app, which will get automatically added to an informative spending list. The main goal of this app is to help young college students adjust their spending habits as they adapt to a brand-new environment. 
+
 ## Stakeholders
 
 ### Blake Lim
