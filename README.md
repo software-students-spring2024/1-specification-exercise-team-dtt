@@ -57,9 +57,9 @@ We aim to develop a student budget tracker that simplifies financial management,
 ### Chosen Stories
 1. As a financially independent student, I want to track my spending across different categories like food, rent, and entertainment so that I can determine areas where I can cut back to stay within my budget.
 2. As a saving enthusiast, I want to be able to save 20% of my income every month so that I can better prepare for the future.
-![UML Diagram (1)](https://github.com/software-students-spring2024/1-specification-exercise-team-dtt/assets/99848111/c7008f5a-9b87-4cf2-8cfb-0cf2062d77f5)
+![UML Diagram (2)](https://github.com/software-students-spring2024/1-specification-exercise-team-dtt/assets/99848111/ff01193f-3cbb-47df-90aa-2f56895e2b22)
 
-
+## Wireframe Diagram
 
 ## Clickable Prototype
 
