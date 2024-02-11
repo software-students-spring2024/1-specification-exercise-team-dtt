@@ -60,6 +60,7 @@ We aim to develop a student budget tracker that simplifies financial management,
 ![UML Diagram (2)](https://github.com/software-students-spring2024/1-specification-exercise-team-dtt/assets/99848111/ff01193f-3cbb-47df-90aa-2f56895e2b22)
 
 ## Wireframe Diagram
+![Wireframe (1)](https://github.com/software-students-spring2024/1-specification-exercise-team-dtt/assets/99848111/174ceb85-9f31-4fb1-afd3-d60e03f83b60)
 
 ## Clickable Prototype
 
