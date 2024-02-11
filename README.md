@@ -63,4 +63,4 @@ We aim to develop a student budget tracker that simplifies financial management,
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[Prototype](https://www.figma.com/proto/ZysNPqVzlim2X0XxpPTdYI/Prototype?node-id=203-559&starting-point-node-id=1%3A2&mode=design&t=hjNcHGTqWHMgHKz9-1)
